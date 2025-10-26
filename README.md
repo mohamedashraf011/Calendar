@@ -12,4 +12,3 @@ It displays the **current day, date, month, and year** with a clean animated car
 - **CSS3** – styling (flexbox, gradients, media queries)  
 - **JavaScript (Vanilla)** – date and time logic  
 
----
